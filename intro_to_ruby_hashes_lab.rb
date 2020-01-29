@@ -24,7 +24,7 @@ monopoly =  {
     :names=>
     {
     }  
-  }   
+     
 }
 end
 
